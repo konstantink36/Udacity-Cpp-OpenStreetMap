@@ -12,7 +12,7 @@ The Route Planner performs the following steps:
 - A* search is executed, finding the shortest path between the two points
 - The path is returned and plotted used IO2D library
 
-Image below shows example output of the program.
+The Image below shows an example of the program output.
 
 <img src="map.png" width="600" height="450" />
 
