@@ -7,9 +7,9 @@ Real world map data comes from the OpenStreetMap (OSM) project in the form of an
 
 The Route Planner performs the following steps:
 
-- Parse the data from an .OSM xml file
+- Parse the map data from an .OSM xml file
 - The user inputs coordinates of two points on the map
-- A* search is executed on the two points.
+- A* search is executed on the two points
 - The path is returned and plotted used IO2D library
 
 See image below for an exmaple path plotted between two points.
