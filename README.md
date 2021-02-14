@@ -9,7 +9,7 @@ The Route Planner performs the following steps:
 
 - Parse the map data from an .OSM xml file
 - The user inputs coordinates of two points on the map
-- A* search is executed on the two points
+- A* search is executed, finding the shortest path between the two points
 - The path is returned and plotted used IO2D library
 
 Image below shows example output of the program.
