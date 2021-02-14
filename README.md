@@ -12,7 +12,7 @@ The Route Planner performs the following steps:
 - A* search is executed on the two points
 - The path is returned and plotted used IO2D library
 
-See image below for an exmaple path plotted between two points.
+Image below shows path plotted between two points after performing A* search algorithm.
 
 <img src="map.png" width="600" height="450" />
 
