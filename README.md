@@ -1,13 +1,13 @@
 # Route Planning Project
 
 This is my solution to a OpenStreetMap Route Planner as part of the Udacity C++ Nanodegree.
-The Route Planner finds the shortest path between two points on map using the A* search algorithm. 
+The Route Planner finds the shortest path between two points on a map using the A* search algorithm. 
 
 The real world map data comes from the OpenStreetMap (OSM) project in the form of an OSM XML file (.osm file).
 
 The Route Planner performs the following steps:
 
-- Get the map data from an .OSM xml file
+- Read the map data from an .OSM xml file
 - The user inputs coordinates of two points on the map
 - A* search is executed, finding the shortest path between the two points
 - The path is returned and plotted using the IO2D library
